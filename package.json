@@ -1,0 +1,27 @@
+{
+  "name": "dd_leo_common",
+  "version": "1.0.0",
+  "description": "公司前端公共方法集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoMelody/dd_leo_common.git"
+  },
+  "keywords": [
+    "ddjf",
+    "common",
+    "array"
+  ],
+  "author": "leowang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoMelody/dd_leo_common/issues"
+  },
+  "homepage": "https://github.com/LeoMelody/dd_leo_common#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
