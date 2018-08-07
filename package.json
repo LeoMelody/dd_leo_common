@@ -1,5 +1,5 @@
 {
-  "name": "dd_leo_common",
+  "name": "@ddjf/dd_leo_common",
   "version": "1.0.0",
   "description": "公司前端公共方法集合",
   "main": "index.js",
