@@ -2,7 +2,7 @@
 
 // Object.assign(module.exports, array)
 
-import array from './lib/arrayUtil'
+import array from './src/arrayUtil'
 
 export default {
   array
